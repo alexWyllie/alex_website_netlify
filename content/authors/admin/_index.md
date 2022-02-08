@@ -27,7 +27,7 @@ education:
 superuser: true
 highlight_name: true
 title: Alex Wyllie
-email: ""
+email: "alex@dilex.net"
 ---
 Alex Wyllie is an AI-focused software engineer with a strong mathematical background and research experience. 
 
