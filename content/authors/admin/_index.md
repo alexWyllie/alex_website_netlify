@@ -6,7 +6,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:alex@wyllie.net
   - icon: github
     icon_pack: fab
     link: https://github.com/alexWyllie
