@@ -52,7 +52,7 @@ experience:
     date_end: '2018-08-01'
     description: Built model and simulation for Computational Social Choice experiments for Dr Rabinovich and Dr Obrastsova
     
-  - Lab Technician
+  - title: Lab Technician
     company: University of Kentucky
     location: Kentucky
     date_start: '2017-03-01'
